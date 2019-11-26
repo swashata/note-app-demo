@@ -1,0 +1,11 @@
+{
+	"[javascript]": {
+		"editor.formatOnSave": true
+	},
+	"[javascriptreact]": {
+		"editor.formatOnSave": true
+	},
+	"editor.fontSize": 22,
+	"editor.lineHeight": 28,
+	"terminal.integrated.fontSize": 18
+}

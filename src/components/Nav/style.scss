@@ -1,0 +1,24 @@
+html .navbar {
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.01), 0 1px 2px rgba(0, 0, 0, 0.06);
+
+	.container {
+		display: flex;
+	}
+
+	.navbar-actions {
+		display: flex;
+		align-items: center;
+		margin-left: auto;
+		padding: 0 0.75rem;
+		text-transform: uppercase;
+		font-weight: bold;
+	}
+}
+.navbar-logo-text {
+	text-transform: uppercase;
+	font-weight: bolder;
+	color: #333333;
+	font-size: 24px;
+	margin-left: 10px;
+	font-family: 'Rubik', sans-serif;
+}

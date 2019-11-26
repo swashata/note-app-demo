@@ -1,0 +1,11 @@
+.notes-app-spinner {
+	min-height: 150px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	&.notes-app-spinner--inline {
+		min-height: 36px;
+		display: inline-flex;
+	}
+}

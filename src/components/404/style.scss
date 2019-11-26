@@ -1,0 +1,14 @@
+.notes-app-404 {
+	text-align: center;
+	margin: 20px 0;
+	& &__image {
+		display: block;
+		height: 128px;
+		width: auto;
+		margin: 0 auto 40px;
+	}
+
+	& &__title {
+		text-transform: uppercase;
+	}
+}
